@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/ArbolAVL/Node.cpp
+Node.h
+C:/Users/ASUS/CLionProjects/ArbolAVL/Node.h
+
+C:/Users/ASUS/CLionProjects/ArbolAVL/Node.h
+iostream
+-
+
+C:/Users/ASUS/CLionProjects/ArbolAVL/Tree.cpp
+Tree.h
+C:/Users/ASUS/CLionProjects/ArbolAVL/Tree.h
+
+C:/Users/ASUS/CLionProjects/ArbolAVL/Tree.h
+iostream
+-
+Node.h
+C:/Users/ASUS/CLionProjects/ArbolAVL/Node.h
+
+C:/Users/ASUS/CLionProjects/ArbolAVL/main.cpp
+iostream
+-
+conio.h
+-
+Tree.h
+C:/Users/ASUS/CLionProjects/ArbolAVL/Tree.h
+
